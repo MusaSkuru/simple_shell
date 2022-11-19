@@ -1,1 +1,1 @@
-ALX Team Project Simple_Shell
+simple shell ALX team project
